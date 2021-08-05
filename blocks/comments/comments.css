@@ -1,25 +1,4 @@
 .comments{
-<<<<<<< HEAD
-  max-width: calc(100% - 124px);
-  margin: 0 auto;
-}
-@media screen and (max-width:1024px){
-  .comments{
-    max-width: calc(100% - 100px);
-  }
-}
-@media screen and (max-width:768px){
-  .comments{
-    max-width: calc(100% - 60px);
-  }
-}
-@media screen and (max-width:320px){
-  .comments{
-    max-width: 100%;
-  }
-}
-=======
   margin: 0 auto;
 }
 
->>>>>>> feature
