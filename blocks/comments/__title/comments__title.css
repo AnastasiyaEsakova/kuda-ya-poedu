@@ -1,20 +1,17 @@
-.people__title{
+.comments__title{
   color: #FECDA7;
   text-transform: uppercase;
   font-size: 15px;
-  line-height: 32px;
+  line-height: 17px;
   font-weight: bolder;
   margin: 0;
   margin-top: 90px;
-
+  margin-bottom: 30px;
 }
 @media screen and (max-width:450px){
-  .people__title{
+  .comments__title{
     font-size: 18px;
+    text-align: center;
   }
 }
-@media screen and (max-width:320px){
-  .people__title{
-    margin-left: 24px;
-  }
-}
+
