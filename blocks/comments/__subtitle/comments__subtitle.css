@@ -4,17 +4,31 @@
   font-weight: bolder;
   line-height: 52px;
   max-width: 583px;
+<<<<<<< HEAD
   margin-bottom: 80px;
+=======
+  margin-bottom: 120px;
+>>>>>>> feature
 }
 @media screen and (max-width:768px){
   .comments__subtitle{
     font-size: 30px;
     line-height: 42px;
+<<<<<<< HEAD
   }
 }
 @media screen and (max-width:320px){
   .comments__subtitle{
     margin-left: 24px;
     margin-bottom: 40px;
+=======
+    margin-bottom: 80px;
+  }
+}
+@media screen and (max-width:450px){
+  .comments__subtitle{
+    margin-bottom: 40px;
+    text-align: center;
+>>>>>>> feature
   }
 }

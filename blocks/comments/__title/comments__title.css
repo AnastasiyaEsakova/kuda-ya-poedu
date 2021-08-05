@@ -2,15 +2,24 @@
   color: #FECDA7;
   text-transform: uppercase;
   font-size: 15px;
+<<<<<<< HEAD
   line-height: 32px;
   font-weight: bolder;
   margin: 0;
   margin-top: 90px;
 
+=======
+  line-height: 17px;
+  font-weight: bolder;
+  margin: 0;
+  margin-top: 90px;
+  margin-bottom: 30px;
+>>>>>>> feature
 }
 @media screen and (max-width:450px){
   .comments__title{
     font-size: 18px;
+<<<<<<< HEAD
   }
 }
 @media screen and (max-width:320px){
@@ -18,3 +27,9 @@
     margin-left: 24px;
   }
 }
+=======
+    text-align: center;
+  }
+}
+
+>>>>>>> feature
